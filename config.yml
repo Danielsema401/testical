@@ -1,0 +1,7 @@
+# config.yml - simple project info
+project:
+  name: "My GitHub Test Repo"
+  files:
+    -"CNAME" #DNS configuration
+    -"index.html" #Main file html
+  local_path: "C:\Users\admin\Desktop\perfect code\current_codes\feb_15_25\gitles\"
